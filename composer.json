@@ -1,0 +1,19 @@
+{
+    "name": "shiro/sorter",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Noha Aleksandr",
+            "email": "sashanoga1989@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/yaml": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sorter\\": "src/"
+        }
+    }
+}
